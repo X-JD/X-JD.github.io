@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.com/de/series/</loc>
+    <loc>https://X-JD.github.io/de/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.com/es/series/"
+                href="https://X-JD.github.io/es/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/series/"
+                href="https://X-JD.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/series/"
+                href="https://X-JD.github.io/de/series/"
                 />
   </url><url>
-    <loc>http://example.com/de/tags/</loc>
+    <loc>https://X-JD.github.io/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.com/es/tags/"
+                href="https://X-JD.github.io/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/tags/"
+                href="https://X-JD.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/tags/"
+                href="https://X-JD.github.io/de/tags/"
                 />
   </url><url>
-    <loc>http://example.com/de/</loc>
+    <loc>https://X-JD.github.io/de/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.com/es/"
+                href="https://X-JD.github.io/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/"
+                href="https://X-JD.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/"
+                href="https://X-JD.github.io/de/"
                 />
   </url>
 </urlset>

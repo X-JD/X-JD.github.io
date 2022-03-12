@@ -2,109 +2,109 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.com/projects/photography/</loc>
+    <loc>https://X-JD.github.io/projects/photography/</loc>
   </url><url>
-    <loc>http://example.com/projects/design/</loc>
+    <loc>https://X-JD.github.io/projects/design/</loc>
   </url><url>
-    <loc>http://example.com/projects/writing/</loc>
+    <loc>https://X-JD.github.io/projects/writing/</loc>
   </url><url>
-    <loc>http://example.com/projects/</loc>
+    <loc>https://X-JD.github.io/projects/</loc>
   </url><url>
-    <loc>http://example.com/blog/</loc>
+    <loc>https://X-JD.github.io/blog/</loc>
     <lastmod>2022-02-21T16:04:06-05:00</lastmod>
   </url><url>
-    <loc>http://example.com/tags/blog/</loc>
+    <loc>https://X-JD.github.io/tags/blog/</loc>
     <lastmod>2022-02-21T16:04:06-05:00</lastmod>
   </url><url>
-    <loc>http://example.com/tags/features/</loc>
+    <loc>https://X-JD.github.io/tags/features/</loc>
     <lastmod>2022-02-21T16:04:06-05:00</lastmod>
   </url><url>
-    <loc>http://example.com/</loc>
-    <lastmod>2022-02-21T16:04:06-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://example.com/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://example.com/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://example.com/"
-                />
-  </url><url>
-    <loc>http://example.com/series/quickstart/</loc>
-    <lastmod>2022-02-21T16:04:06-05:00</lastmod>
-  </url><url>
-    <loc>http://example.com/series/</loc>
+    <loc>https://X-JD.github.io/</loc>
     <lastmod>2022-02-21T16:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.com/es/series/"
+                href="https://X-JD.github.io/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/series/"
+                href="https://X-JD.github.io/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/series/"
+                href="https://X-JD.github.io/"
                 />
   </url><url>
-    <loc>http://example.com/blog/multi-author/</loc>
+    <loc>https://X-JD.github.io/series/quickstart/</loc>
     <lastmod>2022-02-21T16:04:06-05:00</lastmod>
   </url><url>
-    <loc>http://example.com/tags/</loc>
+    <loc>https://X-JD.github.io/series/</loc>
     <lastmod>2022-02-21T16:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.com/es/tags/"
+                href="https://X-JD.github.io/es/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/tags/"
+                href="https://X-JD.github.io/de/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/tags/"
+                href="https://X-JD.github.io/series/"
                 />
   </url><url>
-    <loc>http://example.com/series/example-posts/</loc>
+    <loc>https://X-JD.github.io/blog/multi-author/</loc>
+    <lastmod>2022-02-21T16:04:06-05:00</lastmod>
+  </url><url>
+    <loc>https://X-JD.github.io/tags/</loc>
+    <lastmod>2022-02-21T16:04:06-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://X-JD.github.io/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://X-JD.github.io/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://X-JD.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://X-JD.github.io/series/example-posts/</loc>
     <lastmod>2022-02-20T12:04:16-05:00</lastmod>
   </url><url>
-    <loc>http://example.com/tags/images/</loc>
+    <loc>https://X-JD.github.io/tags/images/</loc>
     <lastmod>2022-02-20T12:04:16-05:00</lastmod>
   </url><url>
-    <loc>http://example.com/blog/coffee-ipsum/</loc>
+    <loc>https://X-JD.github.io/blog/coffee-ipsum/</loc>
     <lastmod>2022-02-20T12:04:16-05:00</lastmod>
   </url><url>
-    <loc>http://example.com/blog/configuration/</loc>
+    <loc>https://X-JD.github.io/blog/configuration/</loc>
     <lastmod>2020-07-25T02:04:06-05:00</lastmod>
   </url><url>
-    <loc>http://example.com/tags/code/</loc>
+    <loc>https://X-JD.github.io/tags/code/</loc>
     <lastmod>2020-07-25T02:04:06-05:00</lastmod>
   </url><url>
-    <loc>http://example.com/blog/long-form-post/</loc>
+    <loc>https://X-JD.github.io/blog/long-form-post/</loc>
     <lastmod>2019-05-30T20:18:53-05:00</lastmod>
   </url><url>
-    <loc>http://example.com/tags/markdown/</loc>
+    <loc>https://X-JD.github.io/tags/markdown/</loc>
     <lastmod>2017-11-06T12:04:06-05:00</lastmod>
   </url><url>
-    <loc>http://example.com/blog/startup-ipsum/</loc>
+    <loc>https://X-JD.github.io/blog/startup-ipsum/</loc>
     <lastmod>2017-11-06T12:04:06-05:00</lastmod>
   </url><url>
-    <loc>http://example.com/blog/no-date/</loc>
+    <loc>https://X-JD.github.io/blog/no-date/</loc>
   </url><url>
-    <loc>http://example.com/tags/words/</loc>
+    <loc>https://X-JD.github.io/tags/words/</loc>
   </url>
 </urlset>
